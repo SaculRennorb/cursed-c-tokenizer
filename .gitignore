@@ -1,0 +1,7 @@
+serializer.h
+*.exe
+*.pdb
+
+.vs/
+.vscode/
+build/
